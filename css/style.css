@@ -1,0 +1,48 @@
+* {
+   
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+     background-color: rgb(31, 4, 75);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+header h1,img {
+    margin: 10px;
+}
+
+nav a{
+    color: #ff0000;
+}
+
+nav ul,ol {
+    list-style-position: inside;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1em;
+}
+
+section {
+            border: solid 1px rgb(33, 7, 75);
+            margin: 10px;
+            border-radius: 8px;
+            padding: 10px;
+    background-color: rgb(26, 3, 63);
+    color: rgb(255, 255, 255);
+}
+
+img {
+    border-radius: 100%;
+}
+
+
+section h1{
+            margin: 10px;
+}
